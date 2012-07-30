@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">Random Alarm</string>
+    <string name="select_base_time">Select the time:</string>
+    <string name="button_set_alarm">Set Alarm</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Pick a time</string>
+    <string name="hour_picker">Hour</string>
+    <string name="minute_picker">Minutes</string>
+    <string name="title_activity_display_message">Display Message Activity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="enter_variance">Enter variance</string>
+    <string name="variance_default">0</string>
+
+</resources>
