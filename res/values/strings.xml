@@ -11,5 +11,15 @@
     <string name="hello_world">Hello world!</string>
     <string name="enter_variance">Enter variance</string>
     <string name="variance_default">0</string>
+    <string name="repeat">Repeat</string>
+    <string name="sunday">Sunday</string>
+    <string name="monday">Monday</string>
+    <string name="tueday">Tuesday</string>
+    <string name="wedday">Wednesday</string>
+    <string name="thuday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="satday">Saturday</string>
+    <string name="cancel">Cancel</string>
+    <string name="submit">Submit</string>
 
 </resources>
